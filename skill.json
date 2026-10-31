@@ -1,0 +1,10 @@
+{
+  "name": "genpark-personal-agent-sleep-debt-repayment-planner-skill",
+  "version": "1.0.0",
+  "description": "Personal Agent Sleep Debt Repayment Planner - Zero-dependency cumulative sleep deficit modeler, Van Dongen PVT cognitive impairment estimator, and circadian-safe sleep repayment scheduler.",
+  "tools": [
+    "calculate_cumulative_sleep_debt_and_impairment",
+    "generate_gradual_sleep_repayment_plan",
+    "audit_weekend_oversleep_circadian_shift"
+  ]
+}
